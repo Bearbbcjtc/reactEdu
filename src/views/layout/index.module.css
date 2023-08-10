@@ -1,0 +1,14 @@
+.sider{
+    height: 100vh;
+    background: black; /*无效样式*/
+}
+
+.header {
+    text-align: right;
+    background: #fff;
+}
+
+.content {
+    background: #fff;
+    padding: 10px;
+}

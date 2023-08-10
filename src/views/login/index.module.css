@@ -1,0 +1,7 @@
+.wrap{
+    height: 100vh;
+    background-image: url("../../img/background.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
